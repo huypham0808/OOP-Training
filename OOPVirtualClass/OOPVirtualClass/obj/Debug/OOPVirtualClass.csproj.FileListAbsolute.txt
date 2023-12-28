@@ -1,0 +1,8 @@
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\bin\Debug\OOPVirtualClass.exe.config
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\bin\Debug\OOPVirtualClass.exe
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\bin\Debug\OOPVirtualClass.pdb
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\obj\Debug\OOPVirtualClass.csproj.AssemblyReference.cache
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\obj\Debug\OOPVirtualClass.csproj.SuggestedBindingRedirects.cache
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\obj\Debug\OOPVirtualClass.csproj.CoreCompileInputs.cache
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\obj\Debug\OOPVirtualClass.exe
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPVirtualClass\obj\Debug\OOPVirtualClass.pdb
