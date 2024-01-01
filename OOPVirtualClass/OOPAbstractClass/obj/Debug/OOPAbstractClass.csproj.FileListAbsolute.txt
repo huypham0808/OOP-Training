@@ -1,0 +1,8 @@
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\bin\Debug\OOPAbstractClass.exe.config
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\bin\Debug\OOPAbstractClass.exe
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\bin\Debug\OOPAbstractClass.pdb
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\obj\Debug\OOPAbstractClass.csproj.AssemblyReference.cache
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\obj\Debug\OOPAbstractClass.csproj.SuggestedBindingRedirects.cache
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\obj\Debug\OOPAbstractClass.csproj.CoreCompileInputs.cache
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\obj\Debug\OOPAbstractClass.exe
+D:\HUY\2.CONG VIEC\5.CODING\5.CODING\TU HOC C SHAR\Bai 9- OOP-1\OOP-Training\OOPVirtualClass\OOPAbstractClass\obj\Debug\OOPAbstractClass.pdb
