@@ -1,0 +1,8 @@
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\bin\Debug\DictionaryProject.exe.config
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\bin\Debug\DictionaryProject.exe
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\bin\Debug\DictionaryProject.pdb
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\obj\Debug\DictionaryProject.csproj.AssemblyReference.cache
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\obj\Debug\DictionaryProject.csproj.SuggestedBindingRedirects.cache
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\obj\Debug\DictionaryProject.csproj.CoreCompileInputs.cache
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\obj\Debug\DictionaryProject.exe
+D:\HUY\2.CONG VIEC\5.CODING\1.CODE C SHARP\HOC OOP\TudienConsole\TudienConsole\DictionaryProject\obj\Debug\DictionaryProject.pdb
