@@ -1,0 +1,14 @@
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/bin/Debug/net9.0/OOP
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/bin/Debug/net9.0/OOP.deps.json
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/bin/Debug/net9.0/OOP.dll
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/bin/Debug/net9.0/OOP.pdb
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/OOP.dll
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/refint/OOP.dll
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/OOP.pdb
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache
+/Users/ngan/Documents/1.CONG VIEC/CSharp/OOP/obj/Debug/net9.0/ref/OOP.dll
